@@ -82,7 +82,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@ArnildoSoares]https://www.frontendmentor.io/profile/ArnildoSoares
+- Frontend Mentor - [@ArnildoSoares](https://www.frontendmentor.io/profile/ArnildoSoares)
 
 ## Acknowledgments
 

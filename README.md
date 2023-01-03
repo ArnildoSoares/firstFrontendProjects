@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL:
-- Live Site URL: https://arnildosoares.github.io/firstFrontendProjects/?x
+- [Solution URL:](https://www.frontendmentor.io/solutions/product-preview-card-component-OFeW6nFQL_)
+- [Live Site URL:](https://arnildosoares.github.io/firstFrontendProjects/?x)
 
 ## My process
 

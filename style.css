@@ -70,7 +70,7 @@ p {
   font-family: "Montserrat", sans-serif;
 }
 
-section {
+div {
   display: flex;
   align-items: center;
   justify-items: flex-start;
